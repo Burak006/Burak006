@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/burak-ergin18/) 
 
 <a href="https://www.github.com/Burak006" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ugur08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Burak006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 - 👋 Hi, I’m @Burak006
 - 👀 I’m interested in ...
