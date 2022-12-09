@@ -1,6 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Fatih.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Burak.)](https://git.io/typing-svg)
 <br>
-<h2>Full-Stack Web Developer</h2>
+<h2>Front-End | Developer</h2>
  <br>
  - 📫 How to reach me  burakgs0618@gmail.com
  <br>
