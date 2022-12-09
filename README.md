@@ -1,6 +1,4 @@
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://medium.com/@burakergin) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/burak_ergin06/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/burak-ergin18/) 
+ 
 
 <a href="https://www.github.com/Burak006" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Burak006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,7 +28,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://medium.com/@burakergin) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/burak_ergin06/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/burak-ergin18/)
 [![GitHub followers](https://img.shields.io/github/followers/kalayciburak?style=flat&logo=github)](https://github.com/kalayciburak?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/kalayciburak?style=flat&logo=github&)](https://github.com/kalayciburak?tab=repositories)
 
