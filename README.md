@@ -26,7 +26,7 @@
 Burak006/Burak006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div align="center">
@@ -88,3 +88,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Burak006&theme=nord)](https://github.com/Burak006)
 </div>
+<b>
+ ![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
