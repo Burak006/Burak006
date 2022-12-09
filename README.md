@@ -1,11 +1,16 @@
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Fatih.)](https://git.io/typing-svg)
+<br>
+<h2>Full-Stack Web Developer</h2>
+ <br>
+ - 📫 How to reach me  burakgs0618@gmail.com
+ <br>
  
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://medium.com/@burakergin) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/burak_ergin06/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/burak-ergin18/)
 
 
-- 👋 Hi, I’m @Burak006
-- 📫 How to reach me  burakgs0618@gmail.com
+
 
 <p align="left">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
