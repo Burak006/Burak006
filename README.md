@@ -57,7 +57,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Burak006&theme=nord)](https://github.com/Burak006)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Burak006&theme=nord)](https://github.com/Burak006) -->
 
 <!--![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)-->
 
