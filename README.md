@@ -6,7 +6,7 @@
  
 <hr>
  
-  📫 How to reach me  burakgs0618@gmail.com
+  📫 How to reach me  burakgs0618@gmail.com 
  
 <hr>
 
